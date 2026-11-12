@@ -46,6 +46,9 @@ The Adafruit IO dashboard displays:
 - Add camera-based monitoring.
 - Introduce mobile notifications.
 - Improve detection range and accuracy.
+ ## Wokwi Simulation
+
+(https://wokwi.com/projects/480402928480948225)
 
 ## Author
 Vinothini S
